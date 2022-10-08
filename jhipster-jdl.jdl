@@ -3,10 +3,6 @@ entity Region {
 	regionName String
 }
 
-entity Fera {
-	feraName String
-}
-
 entity Country {
 	countryName String
 }
@@ -75,10 +71,6 @@ relationship OneToOne {
 
 relationship OneToOne {
 	Department{location} to Location
-}
-
-relationship OneToOne {
-	Department{location} to Fera
 }
 
 relationship ManyToMany {
