@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.3": {
+    "promptValues": {
+      "packageName": "com.jungles.rsjapp",
+      "nativeLanguage": "pt-br"
+    }
+  }
+}
