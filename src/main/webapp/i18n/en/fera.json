@@ -1,0 +1,24 @@
+{
+  "gitPodReactSpringJpaApp": {
+    "fera": {
+      "home": {
+        "title": "Feras",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Fera",
+        "createOrEditLabel": "Create or edit a Fera",
+        "notFound": "No Feras found"
+      },
+      "created": "A new Fera is created with identifier {{ param }}",
+      "updated": "A Fera is updated with identifier {{ param }}",
+      "deleted": "A Fera is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Fera {{ id }}?"
+      },
+      "detail": {
+        "title": "Fera"
+      },
+      "id": "ID",
+      "feraName": "Fera Name"
+    }
+  }
+}

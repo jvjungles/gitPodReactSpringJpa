@@ -1,0 +1,20 @@
+{
+  "applications": "*",
+  "changelogDate": "20221008013116",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "fera",
+  "fields": [
+    {
+      "fieldName": "feraName",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Fera",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
